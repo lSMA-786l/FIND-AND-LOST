@@ -78,7 +78,7 @@ body{
 	border-radius:50%;
 	display: inline-block;
 	margin:0 8px;
-	opacity:0.2;
+	opacity:0.2; /*HIDE OR SHADE AWAY */
 	border:4px solid #0404045d;
 	cursor: pointer;
 	transition: opacity 1s ease; /* slow transition*/
